@@ -1,0 +1,12 @@
+pandas
+requests
+faker
+psycopg2-binary
+sqlalchemy
+pytest
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+faiss-cpu
+fastembed
